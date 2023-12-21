@@ -1,0 +1,19 @@
+body {
+  background-color: palevioletred;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+}
+
+a {
+  text-align: center;
+  font-size: 22px;
+}
