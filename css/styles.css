@@ -17,3 +17,10 @@ a {
   text-align: center;
   font-size: 22px;
 }
+
+.croissant-photo {
+  max-width: 20%;
+  border-radius: 5px;
+  display: block;
+  margin: 1px auto;
+}
